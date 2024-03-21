@@ -1,7 +1,5 @@
 # ponderada-prog-s7
 
-# ponderada-prog-s7
-
 ## Tecnologia utilizada e conceitos aprendidos
 
 A tecnologia utilizada para a realização dos testes de carga foi o k6. Este, é uma ferramenta de código aberto para testar o desempenho de sistemas e aplicações, simulando cargas de usuários para avaliar como eles se comportam sob pressão. Ele fornece análises detalhadas sobre o desempenho do sistema, ajudando os desenvolvedores a identificar problemas e melhorar a eficiência.
